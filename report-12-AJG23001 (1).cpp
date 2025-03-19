@@ -1,9 +1,3 @@
-
-/*
-学籍番号:AJG23001 
-氏名: Asuka Ochiai
-*/
-
 //Add if necessary
 #include <iostream>
 #include <stdio.h>
