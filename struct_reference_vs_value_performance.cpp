@@ -1,6 +1,3 @@
-//AJG23001 Asuka Ochiai
-//構造体の参照私は過去に試したことがあるので、簡単にできると思っていた。しかし、忘れている部分が多々あり、復習しようと思った。
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <iostream>
