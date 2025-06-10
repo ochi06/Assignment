@@ -1,9 +1,3 @@
-// 第12回 演習課題(2)の解
-/*
-氏名：落合　梓香
-学籍番号：AJG23001
-*/
-
 #include <iostream>	// coutのため
 #include <iomanip>	// setwのため
 using namespace std;
