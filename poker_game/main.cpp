@@ -1,7 +1,7 @@
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
-#include "report-3-AJG23001_pokergame.h"
+#include "PokerGame.h"
 using namespace std;
 
 int main(){
