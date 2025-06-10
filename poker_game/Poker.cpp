@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "report-3_poker.h"
+#include "Poker.h"
 
 Poker::Poker() {
   for (int i = 0; i < 5; i++) {
