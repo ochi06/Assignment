@@ -1,4 +1,3 @@
-//AJG23001 Asuka Ochiai
 //https://www.omu.ac.jp/
 
 //html取得
