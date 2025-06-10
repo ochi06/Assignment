@@ -1,5 +1,3 @@
-//AJG23001 ASUKA OCHIAI
-
 #include "ex2image.h"
 #include <iostream>
 #include<string>
