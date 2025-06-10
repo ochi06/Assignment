@@ -1,5 +1,3 @@
-//AJG23001 Asuka Ochiai
-
 //行列演算クラス
 public class Mat {
   // コンストラクタ
