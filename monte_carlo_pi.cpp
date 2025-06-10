@@ -1,9 +1,3 @@
-// 第12回 演習課題(3)
-/*
-氏名：落合梓香
-学籍番号：AJG23001
-*/
-
 #include <iostream>
 #include <stdlib.h> // rand関数のため
 using namespace std;
