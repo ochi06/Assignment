@@ -1,4 +1,3 @@
-//AJG23001 ochiai asuka
 public class Circle extends Shape{
   double x, y, radius;
   
