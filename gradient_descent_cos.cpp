@@ -1,5 +1,3 @@
-//AJG23001　落合梓香
-
 #include<stdio.h>
 #include<iostream>
 #include<iomanip>
