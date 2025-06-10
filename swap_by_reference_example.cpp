@@ -1,6 +1,3 @@
-//AJG23001 Asuka Ochiai
-//理解しやすかった
-
 #include <stdio.h>
 #include<iostream>
 using namespace std;
