@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
-#include"report-3-AJG23001_pokergame.h"
+#include"PokerGame.h"
 
 PokerGame::PokerGame() {
   for (int i = 0; i < 5; i++) {
