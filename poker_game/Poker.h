@@ -1,4 +1,4 @@
-//AJG23001 落合梓香
+
 class Poker {
 
 protected:
