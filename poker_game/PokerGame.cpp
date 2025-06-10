@@ -1,5 +1,3 @@
-//AJG23001 落合梓香 派生クラスの利便さが前回の課題実行時よりも理解できたように思う
-
 #include<stdio.h>
 #include<time.h>
 #include<stdlib.h>
