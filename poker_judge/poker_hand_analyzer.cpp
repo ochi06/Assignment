@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <iostream>
 
-#include "kadai15-AJG23001.h" // 課題資料で指定しているヘッダファイルの名前に要修正
+#include "Poker.h" // 課題資料で指定しているヘッダファイルの名前に要修正
 
 void Poker::input_cards() { // 引くカードを入力
 
