@@ -1,6 +1,3 @@
-//AJG23001 Asuka Ochiai
-//クラスについて以前よりスムーズに実装できるようになった気がする
-
 #include <iostream>
 using namespace std;
 
